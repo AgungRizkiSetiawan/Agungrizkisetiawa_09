@@ -1,36 +1,6 @@
 # Agungrizkisetiawa_09
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AgungRizkiSetiawan 
-AgungRizkiSetiawan
-/
-Agungrizkisetiawa_09
-1
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Agungrizkisetiawa_09/index.html.html
-@AgungRizkiSetiawan
-AgungRizkiSetiawan tugas
-Latest commit a6fdf7f 4 minutes ago
- History
- 1 contributor
-79 lines (77 sloc)  3.15 KB
-  
+
 <!doctype html>
 <html>
 <head>
@@ -96,29 +66,4 @@ body p {
 <p>3. Yang terahir publish dalam bentuk .html</p>
 <p><img src="12.png" width="1366" height="768" /></p>
 
-<div align="center">
-		<canvas id="3darea" width="800" height="600" style="background-color:#"#000000"">
-		</canvas>
-	</div>
-	<script type="text/javascript">
-	<!--
-			startCopperLichtFromFile('3darea', 'copperlichtdata/coppercube.ccbz', 'Loading $PROGRESS$...<br/><br/><img style="max-width:50%" src="copperlichtdata/coppercubeloadinglogo.png" />', 'Error: This browser does not support WebGL (or it is disabled).<br/>See <a href=\"http://www.ambiera.com/copperlicht/browsersupport.html\">here</a> for details.', false, true, "#000000");
-	-->
-	</script>
-	<br/>
-	<div align="center">
-		<small>Created using <a href="http://www.ambiera.com/coppercube/index.html">CopperCube</a></small>	</div>
-</body>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
