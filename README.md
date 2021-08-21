@@ -1,7 +1,7 @@
 # Agungrizkisetiawa_09
 
 
-<!doctype html>
+
 <html>
 <head>
 <body>
