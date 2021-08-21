@@ -4,12 +4,6 @@
 <!doctype html>
 <html>
 <head>
-body p {
-	font-size: 16px;
-}
-</style>
-</head>
-
 <body>
 <h1><strong>Selamat Datang Di ARs Studio</strong></h1>
 <p><strong>Nama : Agung Rizki Setiawan</strong></p>
